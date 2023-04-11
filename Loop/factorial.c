@@ -11,6 +11,5 @@ int main()
     {
         result = result * i;
     }
-
     printf("%d! = %d\n", num, result);
 }
